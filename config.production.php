@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://my-jigsaw-blog.com',
+    'baseUrl' => 'https://simple-blog-jigsaw.netlify.app',
     'production' => true,
 ];
